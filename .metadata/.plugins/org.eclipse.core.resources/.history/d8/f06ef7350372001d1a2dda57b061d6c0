@@ -1,0 +1,14 @@
+package model;
+
+public class Member {
+	private int memberNumber;
+	
+	punlic getMemberNumber() {
+		
+	}
+
+	public Member() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

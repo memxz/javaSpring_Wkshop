@@ -1,0 +1,21 @@
+package model;
+
+import antlr.collections.List;
+
+public class Club {
+
+	private int currentNumber;
+	private List<Member> members;
+	public Club() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public List<Member> addMember(Member mb){
+		this.members.add(mb);
+	
+	}
+	
+	public void showMemers() {
+		
+	}
+}

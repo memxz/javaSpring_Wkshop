@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;StudentApplication_jpql&apos;&#x0D;&#x0A;- Original project: &apos;StudentApplication_jpql&apos;&#x0D;&#x0A;- Original element: &apos;StudentApplication_jpql/src/main/java/iss.persistent&apos;&#x0D;&#x0A;- Delete subpackages" description="Delete element" element1="/src\/main\/java&lt;iss.persistent.jpql.model" element2="/src\/main\/java&lt;iss.persistent.jpql" element3="/src\/main\/java&lt;iss.persistent" element4="/src\/main\/java&lt;iss" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1670206008266" subPackages="true" version="1.0"/>
+</session>

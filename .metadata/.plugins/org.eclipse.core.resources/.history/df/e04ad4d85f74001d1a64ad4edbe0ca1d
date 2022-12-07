@@ -1,0 +1,9 @@
+package sg.nus.iss.jpa.workshop;
+
+public class SpringJpaWorkshopApplication {
+
+	public SpringJpaWorkshopApplication() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

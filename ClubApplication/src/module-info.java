@@ -1,0 +1,9 @@
+/**
+ *
+ */
+/**
+ * @author Cyrus
+ *
+ */
+module ClubApplication {
+}

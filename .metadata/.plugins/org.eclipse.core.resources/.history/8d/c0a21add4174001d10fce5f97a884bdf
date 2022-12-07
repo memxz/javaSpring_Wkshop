@@ -1,0 +1,9 @@
+package iss.persistent.jpql.model;
+
+public class DataService {
+
+	public DataService() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

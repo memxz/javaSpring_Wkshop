@@ -1,0 +1,9 @@
+package sg.nus.iss.jpa.workshop.model;
+
+public class Address {
+
+	public Address() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
