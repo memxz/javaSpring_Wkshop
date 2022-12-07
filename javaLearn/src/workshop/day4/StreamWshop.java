@@ -20,11 +20,11 @@ public class StreamWshop {
 
       // Exercise 2: Using streams, compute 
       // the total salary of all staff
-      System.out.println("\n[Exercise 2: Sum]");
-      float sum=staffList
-      	.stream()
-      	.forEach(e->sum+e.getSalary());
-      	.getAsFloat();
+      // System.out.println("\n[Exercise 2: Sum]");
+      // float sum=staffList
+      // 	.stream()
+      // 	.forEach(e->sum+e.getSalary())
+      // 	.getAsFloat();
      // System.out.println(sum);      
       
       // Exercise 3: Using streams' filter(), 
