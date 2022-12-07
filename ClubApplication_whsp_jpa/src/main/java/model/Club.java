@@ -10,10 +10,10 @@ public class Club {
 		// TODO Auto-generated constructor stub
 	}
 
-	public List<Member> addMember(Member mb){
-		return this.members.add(mb);
+	// public List<Member> addMember(Member mb){
+	// 	return this.members.add(mb);
 	
-	}
+	// }
 	
 	public int getCurrentNumber() {
 		return currentNumber;
