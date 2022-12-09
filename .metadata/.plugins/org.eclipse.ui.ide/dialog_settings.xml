@@ -33,9 +33,9 @@
 		<item value="org.sonatype.m2e.egit.feature:0.17.0.202209271423"/>
 	</list>
 	<section name="NewWizardAction">
-		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jpt.jpa.ui.wizard.newJpaProject"/>
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.springsource.ide.eclipse.commons.gettingstarted.wizard.boot.NewSpringBootWizard"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.jpt.jpa"/>
+			<item value="org.springsource.ide.eclipse.boot.wizards.category"/>
 		</list>
 	</section>
 	<section name="ExternalProjectImportWizard">
@@ -45,6 +45,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Cyrus\WorkRepo\javaSpring_Wkshop\springboot-jpa-workshop"/>
 			<item value="C:\Users\Cyrus\OneDrive - National University of Singapore\Luminus_Repo\SA4105 Web Application Development\Tin\Java 1\Workshops\Solutions\Workshop4_2_Sols_ClubApplication_whsp4_p2\ClubApplication_whsp4_p2"/>
 			<item value="C:\Users\Cyrus\OneDrive - National University of Singapore\Luminus_Repo\SA4105 Web Application Development\Tin\Java 1\Workshops\Solutions\Workshop4_1_Sols_ClubApplication_whsp4_p1\ClubApplication_whsp4_p1"/>
 		</list>
@@ -54,7 +55,7 @@
 	</section>
 	<section name="SmartImportWizard">
 		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
-		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">

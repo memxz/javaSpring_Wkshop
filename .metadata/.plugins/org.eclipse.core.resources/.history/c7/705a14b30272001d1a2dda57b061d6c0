@@ -1,9 +1,0 @@
-package application;
-
-public class ClubApplication {
-
-	public ClubApplication() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

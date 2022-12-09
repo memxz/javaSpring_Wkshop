@@ -1,9 +1,0 @@
-package sg.nus.iss.jpa.workshop.repository;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-import sg.nus.iss.jpa.workshop.model.Customer;
-
-public interface CustomerRepository extends JpaRepository<Customer, Integer> {
-
-}
