@@ -1,9 +1,0 @@
-package workshop.day4;
-
-public class StreamWshop {
-
-	public StreamWshop() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

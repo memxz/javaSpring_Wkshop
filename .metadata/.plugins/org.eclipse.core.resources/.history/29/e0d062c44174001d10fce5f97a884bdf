@@ -1,9 +1,0 @@
-package iss.persistent.jpql.model;
-
-public class Department {
-
-	public Department() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

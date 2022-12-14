@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;sg.nus.iss.jpa.workshop.model&apos; to &apos;sg.nus.iss.jpaworkshop.model&apos;&#x0D;&#x0A;- Original project: &apos;jpa-workshop&apos;&#x0D;&#x0A;- Original element: &apos;jpa-workshop/src/main/java/sg.nus.iss.jpa.workshop.model&apos;&#x0D;&#x0A;- Renamed element: &apos;jpa-workshop/src/main/java/sg.nus.iss.jpaworkshop.model&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;sg.nus.iss.jpa.workshop.model&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;sg.nus.iss.jpa.workshop.model" name="sg.nus.iss.jpaworkshop.model" qualified="false" references="true" stamp="1670216417727" textual="false" version="1.0"/>
-</session>
